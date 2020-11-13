@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7e79b6b-a9b1-4011-99f6-22e914571d37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kESwO8NwAlouSoqr4b5qYOGJ8G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Tomer\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7e79b6b-a9b1-4011-99f6-22e914571d37" name="Default Changelist" comment="" />
+      <created>1605264496261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605264496261</updated>
+      <workItem from="1605264497542" duration="860000" />
+      <workItem from="1605265366768" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="687" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605265326504">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="468" y="687" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1605265326504" />
+    <state x="1061" y="442" key="FileChooserDialogImpl" timestamp="1605264763958">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="442" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1605264763958" />
+    <state x="1159" y="598" key="Github.ShareDialog" timestamp="1605265293475">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1159" y="598" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605265293475" />
+    <state x="1012" y="401" key="SettingsEditor" timestamp="1605265602593">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1012" y="401" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1605265602593" />
+    <state x="680" y="300" width="1200" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1605265350574">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="680" y="300" width="1200" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605265350574" />
+    <state x="1327" y="603" key="search.everywhere.popup" timestamp="1605265398553">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1327" y="603" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1605265398553" />
+  </component>
+</project>
